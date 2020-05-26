@@ -1,5 +1,5 @@
 # Rumor-Detection
-持续更新中··· 
+持续更新中···  
 Hamidian, Sardar, and Mona T. Diab. "Rumor detection and classification for twitter data." arXiv preprint arXiv:1912.08926 (2019).  
 Li, Quanzhi, Qiong Zhang, and Luo Si. "Rumor Detection by Exploiting User Credibility Information, Attention and Multi-task Learning." Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019.  
 Chen, Yixuan, et al. "Attention-Residual Network with CNN for Rumor Detection." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019.  
